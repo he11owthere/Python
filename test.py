@@ -1,1 +1,2 @@
-print("Hello there python")
+x = "nohtyp ereht olleh"
+print(x[::-1])
